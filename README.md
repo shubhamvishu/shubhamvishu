@@ -20,9 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 🙋‍♂️ About Me
 
-- 👋 Hi, I’m Shubham Chaudhary (@shubhamvishu)
+  - 👋 Hi, I’m <b>Shubham Chaudhary</b> (@shubhamvishu)
 
-- 👀 I’m currently working in Amazon(AWS), Bangalore.
+  - 👀 I’m currently working in <b>Amazon(AWS)</b>, Bangalore.
   
 - 🚀 I’m interested in developing software products.
 

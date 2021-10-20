@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 ## 🙋‍♂️ About Me
 
-- 👋 Hi, I’m @shubhamvishu
+- 👋 Hi, I’m Shubham Chaudhary (@shubhamvishu)
 
-- 👀 I’m currently working in AWS
+- 👀 I’m currently working in Amazon(AWS), Bangalore.
   
-- 🚀 I’m interested in developing software products
+- 🚀 I’m interested in developing software products.
 
   
 ## 🚀 Languages and Tools:

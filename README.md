@@ -1,25 +1,21 @@
 <h4 align="center"> 
   
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"/>, I'm Shubham Chaudhary </h1>
+<h4 align="center"> 
+  
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham</h1> 
  
- 
-- 👋 Hi, I’m @shubhamvishu
-- 👀 I’m interested in developing products
-
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=I'm+a+passionate+Developer+from+India)](https://git.io/typing-svg)
+  
 <!---
 shubhamvishu/shubhamvishu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham</h1>
-<h3 align="center">I'm a passionate Developer from India.</h3>
+<!-- <h3 align="center">I'm a passionate Developer from India.</h3> -->
   
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=Just+a+codderrr%2C+love+to+Develop...)](https://git.io/typing-svg)
- <!-- <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
-
+<!-- <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
 -->
- <img width="100%" height="auto" align="right" src="https://i.imgur.com/iXuL1HG.png"/>
   
 
 ## 🙋‍♂️ About Me
@@ -27,6 +23,9 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m @shubhamvishu
 
 - 👀 I’m currently working in AWS
+  
+- 🚀 I’m interested in developing software products
+
   
 ## 🚀 Languages and Tools:
 
@@ -42,7 +41,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+   <!-- <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
@@ -51,15 +50,15 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham Chaudhary's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvishu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <!-- <a href="https://github.com/shubhamvishu/github-readme-stats"><img alt="Shubham Chaudhary's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamvishu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=333739" /></a> -->
+  <a href="https://github.com/shubhamvishu/github-readme-stats"><img alt="Shubham Chaudhary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamvishu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=333739" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -67,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shubhamvishu/github-readme-activity-graph"><img alt="Shubham Chaudhary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhamvishu&bg_color=333739&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -75,15 +74,15 @@ You can click the Preview link to take a look at your changes.
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = ""><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=shubhamvishu">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shubhamvishu?tab=followers"><img src="https://img.shields.io/github/followers/shubhamvishu?label=Followers&style=social" alt="GitHub Badge"></a>

@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+    <a href="#">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shubham Chaudhary's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvishu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -82,7 +82,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="#">
     <img src="https://komarev.com/ghpvc/?username=shubhamvishu">
 </a>
 <a href="https://github.com/shubhamvishu?tab=followers"><img src="https://img.shields.io/github/followers/shubhamvishu?label=Followers&style=social" alt="GitHub Badge"></a>

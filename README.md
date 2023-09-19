@@ -4,29 +4,17 @@
   
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubham</h1> 
  
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=F71E11&lines=I'm+a+passionate+Developer+from+India)](https://git.io/typing-svg)
+![Typing SVG](http://readme-typing-svg.herokuapp.com?color=2ED12E&lines=cout<<"Developer+from+India;")
   
-<!---
-shubhamvishu/shubhamvishu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<!-- <h3 align="center">I'm a passionate Developer from India.</h3> -->
-  
-<!-- <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
--->
-  
 
 ## 🙋‍♂️ About Me
 
   - 👋 Hi, I’m <b>Shubham Chaudhary</b> (@shubhamvishu)
 
-  - 👀 I’m currently working in <b>Amazon</b> Search team, Bangalore.
-  
-- 🚀 I’m interested in developing software products.
+  - 👀 I’m currently working with <b>Amazon</b> Search team, Bangalore.
 
-  
+ &nbsp; 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -66,13 +54,13 @@ You can click the Preview link to take a look at your changes.
     <!-- <a href="https://github.com/shubhamvishu/github-readme-stats"><img alt="Shubham Chaudhary's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhamvishu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=333739" /></a> -->
   <a href="https://github.com/shubhamvishu/github-readme-stats"><img alt="Shubham Chaudhary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamvishu&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=333739" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
+<!---
 <br/>
 <br/>
 
 <a href="https://github.com/shubhamvishu/github-readme-activity-graph"><img alt="Shubham Chaudhary's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhamvishu&bg_color=333739&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+-->
 
 <br/>
 <br/>

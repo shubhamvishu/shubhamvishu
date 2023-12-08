@@ -39,7 +39,6 @@
     <!-- <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
        
 </p>
---->
 
 <br/>
 
